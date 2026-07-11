@@ -361,7 +361,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 - 🌐 **Website**: [alaminahamed.com](https://alaminahamed.com)
 - 💼 **Specialization**: WordPress plugin development and API integrations
-- 📧 **Email**: me@alaminahamed.com
+- 📧 **Email**: alamin.ahamed.dev@gmail.com
 - 🐱 **GitHub**: [@mralaminahamed](https://github.com/mralaminahamed)
 - 💼 **Available**: Custom development projects and consulting
 
