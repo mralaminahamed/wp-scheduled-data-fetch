@@ -5,7 +5,8 @@
   "scripts": {
     "build": "wp-scripts build",
     "start": "wp-scripts start",
-    "packages-update": "wp-scripts packages-update"
+    "packages-update": "wp-scripts packages-update",
+    "shots:banners": "playwright test --config=playwright.assets.config.ts --project=banners"
   },
   "keywords": [
     "wordpress",
