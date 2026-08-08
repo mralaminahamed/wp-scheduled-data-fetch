@@ -33,9 +33,7 @@
         "allow-plugins": {
             "dealerdirect/phpcodesniffer-composer-installer": true
         },
-        "optimize-autoloader": true,
-        "classmap-authoritative": true
-    },
+        "optimize-autoloader": true},
     "autoload": {
         "psr-4": {
             "WPScheduledDataFetch\\": "src/"
